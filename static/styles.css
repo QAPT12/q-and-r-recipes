@@ -1,0 +1,32 @@
+:root {
+    --off-white: #F8F8F8;
+    --border-gray: #D3D3D3;
+    --shadow: rgba(0, 0, 0, 0.1);
+}
+
+/* Nav Bar */
+.navbar{
+    background-color: #FFFFFF;
+    border-bottom:solid 0.5px var(--border-gray);
+    box-shadow: 0 2px 5px var(--shadow);
+    padding: 1rem 3rem;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+}
+
+.nav-link{
+    font-size: 1.5rem;
+}
+
+.nav-item{
+    margin: 0 1rem;
+}
+
+
+
+
+
+
+
